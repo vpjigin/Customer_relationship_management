@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Customer relationship management</string>
+    <string name="address">Address</string>
+    <string name="save_this_location">Save this location</string>
+    <string name="save">Save</string>
+    <string name="contact_number">Contact number</string>
+    <string name="name">Name</string>
+    <string name="name_cant_leave_empty">Name field can\'t leave empty</string>
+    <string name="shops">Shops</string>
+    <string name="details">Details</string>
+    <string name="call_dummy">Call : +91 9895659866</string>
+    <string name="google_map_not_found">Google maps not found</string>
+    <string name="location_captured">Location captured</string>
+    <string name="saved">Saved</string>
+    <string name="gross_weight">Gross Weight(Box + Chicken)</string>
+    <string name="no_of_boxes">No. of boxes</string>
+    <string name="weight_of_empty_box">Weight of empty box (Total)</string>
+    <string name="net_weight">Net Weight(Chicken only)</string>
+    <string name="no_of_empty_boxes_returned">No. of empty boxes returned</string>
+    <string name="no_of_empty_boxes_yet_to_return">No. of empty boxes yet to return</string>
+    <string name="rate">Rate</string>
+    <string name="total_dummy">"Total : ₹"</string>
+    <string name="please_select_shop">Please select shop</string>
+    <string name="date_dymmy">12 May 2020</string>
+</resources>
